@@ -7,4 +7,5 @@
 # PyCharm
 /.idea
 
-/google_appengine/*
+# Don't include google_appengine SDK in the git repo
+/third_party/google_appengine/*
