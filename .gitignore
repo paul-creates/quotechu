@@ -1,0 +1,10 @@
+# Compiled python
+*.py[cod]
+
+# VIM swap files
+*.swp
+
+# PyCharm
+/.idea
+
+/google_appengine/*
